@@ -1,4 +1,4 @@
-package BasicPrograms;
+package JavaBasicPrograms;
 
 import java.util.Scanner;
 
@@ -9,13 +9,6 @@ public class Swapping2Numbers {
 		//Approach 1
 		
 		 enterSwappingNum();
-		
-		
-		
-		
-
-		
-		
 		
 	}
 	
