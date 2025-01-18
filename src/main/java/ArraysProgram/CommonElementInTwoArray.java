@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class CommonlementInTwoArray {
+public class CommonElementInTwoArray {
 	
 	
 	public static void main(String[] args) {
