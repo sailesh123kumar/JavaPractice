@@ -1,4 +1,4 @@
-package practice.java.program;
+package JavaBasicPrograms;
 
 public class ReverseAlternateWords {
 

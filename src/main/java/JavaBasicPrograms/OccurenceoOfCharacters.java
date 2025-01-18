@@ -1,4 +1,4 @@
-package practice.java.program;
+package JavaBasicPrograms;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
