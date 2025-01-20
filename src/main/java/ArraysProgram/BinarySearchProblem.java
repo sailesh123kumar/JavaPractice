@@ -1,4 +1,4 @@
-package JavaBasicPrograms;
+package ArraysProgram;
 
 public class BinarySearchProblem {
 	
