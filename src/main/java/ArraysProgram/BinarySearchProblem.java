@@ -35,7 +35,7 @@ public class BinarySearchProblem {
 		int index = binarySearch(arr, 3);
 		
 		if(index!=-1) {
-			System.out.println("elemaent is available on the index ==> "+index);
+			System.out.println("element is available on the index ==> "+index);
 		}
 		else {
 			System.out.println("===Element not found===");

@@ -15,8 +15,9 @@ public class SelectionSort {
 	}
 
 	/**
-	 * 1.Divide the arrays in to two parts sorted and unsorted 2.Find the smallest
-	 * element from the unsorted array 3.swap it with the leftmost unsorted element
+	 * 1.Divide the arrays in to two parts sorted oth and unsorted from 1st element
+	 * 2.Find the smallest element from the unsorted array 
+	 * 3.swap it with the leftmost unsorted element
 	 * 4.move the boundary of the sorted part to one step right 5.repeat until the
 	 * array get sorted
 	 * 
