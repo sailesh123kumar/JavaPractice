@@ -30,6 +30,8 @@ public class ValidateParenthesisWithAllTypeOfBrackets {
 		return stack.isEmpty();
 	}
 	
+	
+	
 	public static void main(String[] args) {
 		
 		

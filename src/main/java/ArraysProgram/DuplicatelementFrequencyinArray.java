@@ -23,7 +23,6 @@ public class DuplicatelementFrequencyinArray {
 			if(freq[i]!=visited) {
 				freq[i]=count;
 			}
-			
 		}
 		
 		
