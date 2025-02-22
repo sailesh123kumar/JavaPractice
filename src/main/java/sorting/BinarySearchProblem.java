@@ -1,4 +1,4 @@
-package ArraysProgram;
+package sorting;
 
 public class BinarySearchProblem {
 	

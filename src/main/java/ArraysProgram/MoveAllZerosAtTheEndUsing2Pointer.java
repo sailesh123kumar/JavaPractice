@@ -2,7 +2,7 @@ package ArraysProgram;
 
 import java.util.Arrays;
 
-public class MoveAllZerosAtTheEnd {
+public class MoveAllZerosAtTheEndUsing2Pointer {
 
 	
 	public static void main(String[] args) {

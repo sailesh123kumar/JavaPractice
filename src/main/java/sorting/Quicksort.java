@@ -27,9 +27,8 @@ public class Quicksort {
 		arr[low]=arr[end];
 		arr[end]=temp;
 		
-		
-		
 		return end;
+		
 	}
 	
 	

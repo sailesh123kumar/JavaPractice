@@ -24,9 +24,7 @@ public class CommonElementInTwoArray {
 			if (set1.contains(e)) {
 				common.add(e);
 			}
-			
 		}
-		
 		
 		System.out.println(common);
 		
